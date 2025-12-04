@@ -5,7 +5,7 @@ This project explores Human Resource (HR) Analytics using data-driven insights t
 The source of this dataset is kaggle.com. The primary dataset used in this analysis is HR.csv
 
 ### Tools
-- Excel - Data Cleaning [Download Here](./hr_data_cleaned.csv)
+- Excel - Data Cleaning [Download Here](./HR_data_cleaned.csv)
 - SQL - Data Analysis
 - Power BI - Data Visualization
 
